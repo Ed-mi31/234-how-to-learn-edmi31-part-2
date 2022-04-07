@@ -1,0 +1,14 @@
+.table__cell_theme_dark:nth-of-type(5n) {
+  max-width: 200px;
+  width: 100%;
+  text-align: center;
+  margin-top: 80px;
+}
+
+.table__cell_theme_dark {
+  max-width: 200px;
+  padding: 0;
+  width: 100%;
+  color: white;
+  margin-top: 80px;
+}
